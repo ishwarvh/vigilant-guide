@@ -1,2 +1,2 @@
 # vigilant-guide
-Files associated with my website
+Files associated with my practice github.io website
